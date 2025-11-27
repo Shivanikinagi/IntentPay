@@ -1,0 +1,21 @@
+{
+  "name": "intentpay-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for IntentPay natural language payments",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "test": "node test-parser.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "ethers": "^6.15.0",
+    "viem": "^2.39.3",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,8 @@
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
+F:\shivani\VSCode\projects\intentpay\telegram-bot
+pay\
+F:\shivani\VSCode\projects\intentpay\node_modules
+F:\shivani\VSCode\projects\intentpay\project\telegram-bot\node_modules
