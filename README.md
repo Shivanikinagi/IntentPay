@@ -111,6 +111,7 @@ IntentPay is a revolutionary cryptocurrency payment platform that enables users 
 3. Click "Parse Intent" to analyze the command
 4. Review the parsed details and click "Execute Transaction"
 5. Confirm the transaction in your MetaMask wallet
+6. View the transaction on given explorer link
 
 ### Telegram Bot
 
